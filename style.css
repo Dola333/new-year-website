@@ -1,0 +1,158 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: "Work Sans", sans-serif;
+    
+}
+
+/* header styles */
+
+
+
+
+
+.header-info {
+    background:url('/images/banner/banner2.png') ;
+    background-repeat: no-repeat;
+    width: 1600;
+    height: 800;
+    padding-bottom: 90px;
+    margin-bottom: 10px;
+
+}
+
+.header-title {
+    margin-left: 767px;
+    font-weight: 700;
+    font-size: 62px;
+    padding-top: 268px;
+    
+}
+.header-description {
+    margin-left: 737px;
+    margin-top: 20px;
+    color:#474747;
+    padding-top: 30px;
+}
+
+.btn-primary {
+    margin-left: 1079px;
+    margin-top:25px;
+    background: #F15B22;
+    border: 2px solid #F15B22;
+    border-radius: 5px;
+    color:white;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main-info {
+    display: flex;
+    justify-content: space-around;
+    gap:10px;
+    margin-bottom: 150px;
+}
+
+.title {
+    color:#181818;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 197px;
+    padding-right: 400px;
+}
+
+.main-des {
+    margin-top: 15px;
+    color:#474747;
+}
+ ul {
+    margin-top: 15px;
+ }
+
+ li {
+    color:#474747;
+    margin-top: 5px;
+ }
+
+
+ .plan-title {
+    text-align: center;
+    color:#181818;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 45px;
+    padding: 30px;
+ }
+  .plan-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 55px;
+    
+    
+
+  }
+
+
+  .plan-lang {
+    color:#0e0d0d;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .plan-name {
+    color:#474747;
+    padding: 20px;
+  }
+
+
+  .grad-container {
+    background-image:  url('/images/gradient2.png'),url('/images/watch.png');
+    background-repeat: no-repeat;
+    background-position: center , center;
+    padding-bottom: 140px;
+
+    margin-bottom: 50px;
+  }
+
+  .grad-title {
+    color:white;
+    margin-left: 150px;
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 30px;
+  }
+
+  .btn-primary1 {
+    background: white;
+    color:#F15B22;
+    border: 1px solid #F15B22;
+    margin-left: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+
+  .contact-info {
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    background-color: #0e0d0d;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .ttl {
+    font-weight: 700;
+  }
+  .con-des {
+    margin-top: 20px;
+  }
+
+  .num {
+    margin-bottom: 20px;
+  }
